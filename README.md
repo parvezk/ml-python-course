@@ -1,2 +1,6 @@
-# ml_python_course
-Machine learning course with Python 3
+# Pre-thesis Prototypes
+
+1. Discovery
+2. Exploration
+3. Interactive Prototypes
+
